@@ -1,0 +1,36 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"Better CoffeeScript",
+		"Compare Side-By-Side",
+		"CSS Format",
+		"Diffy",
+		"FreeMarker",
+		"Git",
+		"GoSublime",
+		"Handlebars",
+		"HTML-CSS-JS Prettify",
+		"Jade",
+		"JsFormat",
+		"JSX",
+		"Package Control",
+		"Predawn",
+		"Pretty JSON",
+		"Racket",
+		"ReactJS",
+		"ReactJS Snippets",
+		"Ruby Slim",
+		"Sass",
+		"Stylus",
+		"SublimeLinter-jsxhint",
+		"Theme - Afterglow",
+		"Theme - Spacegray",
+		"TypeScript",
+		"Web Inspector"
+	]
+}

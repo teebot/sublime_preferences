@@ -1,0 +1,20 @@
+{
+	"caret_extra_width": 2,
+	"color_scheme": "Packages/Theme - Afterglow/Afterglow-monokai.tmTheme",
+	"hot_exit": false,
+	"font_options":
+	[
+		"no_round"
+	],
+	"font_size": 16,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"tab_size": 2,
+	"tabs_medium": true,
+	"theme": "Afterglow.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"typescript_plugin_tsc_version": "1.7.3",
+	"word_wrap": false
+}
